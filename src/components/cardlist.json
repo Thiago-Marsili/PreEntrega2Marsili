@@ -1,0 +1,39 @@
+[
+    {
+        "id": "1",
+        "title": "Toy Story 4",
+        "description": "Toy Story 4 es una película estadounidense de comedia animada de 2019, es la cuarta entrega de la saga de animación Toy Story y la secuela de Toy Story  (2010). Está producida por Pixar Animation Studios, y fue lanzada por Walt Disney Pictures.",
+        "img": "https://lumiere-a.akamaihd.net/v1/images/image_bf8739ba.jpeg",
+        "categoria": "animada",
+        "precio": 1000,
+        "alt": "Toy Story 4"
+    },
+    {
+        "id": "2",
+        "title": "Rapidos y furiosos 5",
+        "description": "En Río de Janeiro, Dominic Toretto y Brian O'Conner reunen a su pandilla de corredores callejeros para llevar a cabo un atraco, mientras están en la mira de un poderoso narcotraficante brasileño y un peligroso agente federal.",
+        "img": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/62675165469e9e6ea719488623ed05260cafa2ae2c173b59d914460bdf459b11._RI_TTW_.jpg",
+        "categoria": "accion",
+        "precio": 2500,
+        "alt": "Rapidos y furiosos 5"
+    },
+    {
+        "id": "3",
+        "title": "Matrix",
+        "description": "Un experto en computadoras descubre que su mundo es una simulación total creada con maliciosas intenciones por parte de la ciberinteligencia.",
+        "img": "https://pics.filmaffinity.com/Matrix-155050517-large.jpg",
+        "categoria": "simulacion",
+        "precio": 1500,
+        "alt": "Matrix"
+    },
+    {
+        "id": "4",
+        "title": "Gato con botas",
+        "description": "El Gato con Botas descubre que, debido a su pasión por la aventura, ha gastado ya 8 de sus 9 vidas. Por tanto, emprende un peligroso viaje en busca del legendario Último Deseo para solicitar que le restauren las vidas que ya perdió.",
+        "img": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/fe190e33b1a80b175f28715aac47fcddbc10c2ebbff1cc5c9d7b5d5bf1b3a472._RI_TTW_.jpg",
+        "categoria": "comedia",
+        "precio": 1500,
+        "alt": "Gato con botas"
+    }
+    
+]
